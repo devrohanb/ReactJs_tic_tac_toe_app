@@ -7,4 +7,4 @@ If a player try to fill pre filled box it will give error in a toast message.
 ## Technologies used :
 ReactJS, HTML + CSS, Bootstrap, Reactstrap, react-icons, react-toastify, NPM, NodeJS etc.
 ## Tools used :
-Visual Studio Code, Google Chrome etc.  
+Visual Studio Code, Google Chrome etc.   
